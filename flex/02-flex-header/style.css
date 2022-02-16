@@ -4,6 +4,7 @@
   display: flex;
   justify-content: space-between;
   padding:10px;
+  align-items: center;
 }
 
 .logo {
@@ -20,6 +21,8 @@ ul {
   display: flex;
   padding: 0px;
   margin: 0px;
+  justify-content: space-between;
+  gap: 12px
   /*test comment*/
 }
 
@@ -29,5 +32,4 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
-  
 }
