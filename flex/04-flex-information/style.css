@@ -16,8 +16,7 @@ img {
 
 .images {
   display:flex;
-  flex-direction: column;
-  align-items: center;
+  align-items: center
 }
 
 /* do not edit this footer */
