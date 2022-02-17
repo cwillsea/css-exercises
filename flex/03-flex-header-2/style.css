@@ -30,6 +30,7 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+  flex:1
 }
 button {
   border: none;
@@ -43,13 +44,16 @@ a {
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
-  column-gap: 5px;
 }
 
 ul {
   list-style-type: none;
   margin: 0px;
   padding: 0px;
+  flex:1
+}
+
+.right-hand{
   flex:1
 }
 
