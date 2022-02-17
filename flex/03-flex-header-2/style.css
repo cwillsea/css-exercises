@@ -14,6 +14,7 @@ div {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
+  justify-content: space-between;
 }
 
 .profile-image {
@@ -30,7 +31,6 @@ div {
   font-weight: 900;
   font-style: italic;
 }
-
 button {
   border: none;
   border-radius: 8px;
@@ -49,4 +49,7 @@ ul {
   list-style-type: none;
   margin: 0px;
   padding: 0px;
+  gap: 10px;
+  justify-content: space-around;
 }
+
