@@ -14,10 +14,9 @@ img {
   justify-content: center;
 }
 
-.images {
+.image-container {
   display:flex;
   justify-content:center;
-  flex:1
 }
 
 
