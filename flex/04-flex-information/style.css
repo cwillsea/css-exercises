@@ -12,6 +12,7 @@ img {
   font-weight: 900;
   display:flex;
   justify-content: center;
+  margin-bottom: 32px;
 }
 
 .image-container {
@@ -19,7 +20,11 @@ img {
   justify-content:center;
 }
 
-
+.image{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
 
 /* do not edit this footer */
 .footer {
