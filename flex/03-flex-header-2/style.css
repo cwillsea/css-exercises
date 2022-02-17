@@ -53,7 +53,7 @@ ul {
   padding: 0px;
   flex:1;
   display:flex;
-  gap: 8px;
+  gap: 16px;
 }
 
 .right-hand{
