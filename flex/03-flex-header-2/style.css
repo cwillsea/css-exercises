@@ -30,7 +30,6 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
-  flex:1
 }
 button {
   border: none;
@@ -51,7 +50,8 @@ ul {
   margin: 0px;
   padding: 0px;
   flex:1;
-  display:flex
+  display:flex;
+  justify-content: space-between;
 }
 
 .right-hand{
