@@ -16,8 +16,11 @@ img {
 
 .images {
   display:flex;
-  justify-content:center
+  justify-content:center;
+  flex:1
 }
+
+
 
 /* do not edit this footer */
 .footer {
