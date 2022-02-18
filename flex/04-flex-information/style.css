@@ -17,13 +17,19 @@ img {
 
 .image-container {
   display:flex;
-  justify-content:center;
+  justify-content: center;
+  gap: 52px
 }
 
 .image{
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   flex-wrap: wrap;
+}
+
+.text{
+  display: flex;
+  justify-content: center;
 }
 
 /* do not edit this footer */
