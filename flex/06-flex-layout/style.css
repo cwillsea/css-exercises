@@ -8,6 +8,7 @@ body {
   display:flex;
   align-items: center;
   justify-content: center;
+  text-align: center
 }
 
 ul {
@@ -36,4 +37,8 @@ input {
   padding: 8px 24px;
   width: 400px;
   margin-bottom: 16px;
+}
+
+.header{
+  justify-self:flex-start
 }
