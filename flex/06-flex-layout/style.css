@@ -40,5 +40,9 @@ input {
 }
 
 .header{
-  justify-self:flex-start
+  align-self:flex-start
+}
+
+.footer{
+  align-self:flex-end;
 }
