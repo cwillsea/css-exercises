@@ -39,8 +39,11 @@ input {
   margin-bottom: 16px;
 }
 
-.header{
-  align-self:flex-start
+.header,
+.left-links,
+.right-links {
+  align-self:flex-start;
+  display: flex
 }
 
 .footer{
