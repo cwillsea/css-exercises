@@ -78,5 +78,5 @@ button.cancel {
   display:flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  gap:5px
+  row-gap:15px
 }
