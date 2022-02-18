@@ -5,7 +5,9 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
-  display:flex
+  display:flex;
+  align-items: center;
+  justify-content: center;
 }
 
 ul {
