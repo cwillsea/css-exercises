@@ -55,6 +55,8 @@ ul {
   margin: 0px;
   padding: 0px;
   display: flex;
+  flex-direction: column;
+  gap: 10px
 }
 
 a{
