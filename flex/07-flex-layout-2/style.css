@@ -45,6 +45,8 @@ body {
 .content{
   display: flex;
   flex-wrap: wrap;
+  margin: 50px;
+  gap: 15px
 }
 
 ul, a{
