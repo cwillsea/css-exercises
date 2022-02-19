@@ -3,7 +3,7 @@
 body {
   height: 100vh;
   margin: 0;
-  padding: 15px;
+  padding: 30px;
   overflow: hidden;
   font-family: Roboto, sans-serif;
   display:flex;
@@ -47,22 +47,21 @@ input {
 .header{
   display: flex;
   justify-content: space-between;
-  min-width: 100%
+  min-width: 100%;
+  margin-top: 15px;
+  padding: 10px;
 
 }
 
 
-.left-links{
-  display: flex;
-
-
-}
+.left-links,
 .right-links {
   display: flex;
+  gap: 15px
 }
 
 .footer{
-  background-color: rgb(229, 226, 226);
+  background-color: #eeeeee;
   display: flex;
   padding: 10px;
   margin-bottom:30px;
