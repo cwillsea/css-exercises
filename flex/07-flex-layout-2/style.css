@@ -36,3 +36,9 @@ body {
 .content{
   display: flex;
 }
+
+ul, a{
+  list-style: none;
+  text-decoration: none;
+  color:white
+}
