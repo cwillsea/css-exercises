@@ -38,12 +38,12 @@ body {
 
 .center-content{
   display: flex;
-  gap:20px;
   flex:1
 }
 
 .content{
   display: flex;
+  flex-wrap: wrap;
 }
 
 ul, a{
