@@ -16,6 +16,9 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .sidebar {
@@ -31,7 +34,7 @@ body {
 
 .center-content{
   display: flex;
-  gap:20px
+  gap:20px;
 }
 
 .content{
