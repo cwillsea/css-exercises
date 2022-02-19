@@ -31,6 +31,7 @@ body {
 
 .center-content{
   display: flex;
+  gap:20px
 }
 
 .content{
