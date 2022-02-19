@@ -38,6 +38,7 @@ body {
 .center-content{
   display: flex;
   gap:20px;
+  flex:1
 }
 
 .content{
